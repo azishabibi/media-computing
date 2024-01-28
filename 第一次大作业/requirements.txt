@@ -1,0 +1,6 @@
+numpy
+opencv-python
+jittor
+pymaxflow
+scipy
+pyamg
